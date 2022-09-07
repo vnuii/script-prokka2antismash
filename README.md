@@ -1,5 +1,3 @@
-[TOC]
-
 # Prokka to Antismash
 
 ## Introduction
@@ -8,7 +6,7 @@
 
 ## Flow Chart
 
-![test](README.assets/test.jpg)
+![test](https://user-images.githubusercontent.com/103515667/188831579-e62e045c-424b-47f8-a37d-b5d3d467f37d.jpg)
 
 ## **!! Notice !!**
 
