@@ -35,7 +35,7 @@ basepath_targetprtseq=/home/von/ceshi/targetprtseq #目标蛋白文件，即你�
 4. 运行方式
 
 ```shell
-nohup bash path/to/pipeline.sh &
+nohup bash PATH/TO/prokka2antismash.sh &
 exit #挺重要的步骤，如果你和我的情况一样
 ```
 
