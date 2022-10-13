@@ -3,7 +3,7 @@
 ###################################################################################################
 # 2022-8-30
 # von
-# annotation-hmmer/orthofisher-bedtools-antismash pipeline with snakemake
+# annotation-hmmer/orthofisher-bedtools-antismash pipeline
 ###################################################################################################
 
 ### NOTE ###
